@@ -1,83 +1,49 @@
 # 👋 Hi, I'm Lumesh Kumar Sahu
 
-A passionate Full Stack Software Developer with a strong foundation in building scalable, high-performance web and mobile applications. I specialize in React.js, Next.js, TypeScript, Tailwind CSS, Node.js, and React Native. I enjoy transforming complex problems into elegant, user-centric solutions.
+## Full Stack Developer
+
+Full Stack Developer with 3+ years of experience in React.js, React Native, Node.js, and Express.js. Passionate about building scalable applications, REST APIs, and efficient software solutions that deliver great user experiences.
 
 ---
 
 ## 💼 About Me
 
-- 🧑‍💻 *React Native Developer* at *Himotech Global PVT. LTD Noida*
-- 🚀 Experienced in building full-stack applications and mobile apps with a focus on clean architecture, performance, and scalability
-- 💡 Passionate about building tools and platforms that improve productivity and solve real-world problems
-- 📬 Reach me at: lumesh2911@gmail.com
-- 📄 [[Resume](https://drive.google.com/file/d/1ivYU8w-wpHXcYH9zlfwoAyIsIqsx8cxr/view?usp=drive_link)]
+* 💻 Full Stack Developer with expertise in web and mobile application development
+* 🚀 Experienced in building scalable React.js and React Native applications
+* 🔧 Strong background in backend development using Node.js and Express.js
+* 📍 Bhilai, Durg, Chhattisgarh, India
+* 📧 Email: [lumesh2911@gmail.com](mailto:lumesh2911@gmail.com)
+* 🌐 Portfolio: https://lumesh.vercel.app
 
 ---
 
-## 🔧 Tech Stack
+## 💻 Tech Stack
 
-*Frontend:*
-- React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS
-- React Native (CLI & Expo), Flutter (basics)
+### Frontend
 
-*Backend:*
-- Node.js, Express.js, REST APIs, 
+* React.js • React Native • Expo • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-*Databases & ORM:*
-- MongoDB, MySQL, Firebase Firestore
-- Prisma, Drizzle ORM
+### Backend
 
-*Form Handling & Validation*
-- React Hook Form, Zod (schema-based validation)
+* Node.js • Express.js • REST APIs • MVC Architecture
 
-*DevOps & Tools*
-- Git, GitHub, Docker, Postman, CI/CD, CloudPanel
-- Google Play Console (for app deployment)
+### Database
 
-*Testing & Debugging*
-- Jest, React Native Testing Library, API Optimization, React Dev Tools
+* MySQL • MongoDB
 
-  
----
+### State Management
 
-## 📌 Featured Projects
+* Redux Toolkit • Zustand
 
-### 🚀 Polybond Sales ERP
-> A powerful, real-time Sales ERP system enabling seamless collaboration, content management, and data-driven operations for Company.
+### Tools
 
-- 🌐 Built with: *Node.js, Express.js, Drizzle ORM, MySQL, React.js (Vite), Tailwind CSS*
-- 🔄 Real-time sync – updates instantly for all users
-- 📁 Notes and documents with Markdown support
+* Git • GitHub • Postman • VS Code • Android Studio • Xcode
 
-[[Live Demo](https://salenew2025frontend.polybonderps.site/login)]
 
 ---
 
-### 🚀 Polybond ERP App
-> A smart mobile ERP app to manage notes, documents, and content on the go.
+## 🤝 Connect With Me
 
-- 📱 Built using *React Native, React Navigation, Axios*
-- 🚀 Deployed on Google Play Console
-- 🔐 Secure login with mobile-friendly UI
-
-[[Live Demo](https://play.google.com/store/apps/details?id=com.polybond)]
-
----
-
-### 🌿 Farmik App
-> A smart agriculture app for farmers to collaborate and rent agricultural equipment.
-
-- 📱 Built using *React Native, React Navigation, Axios, Zustand, Zod, React Hook Form*
-- 🚜 Equipment listing and rental
-
-[[Figma Design](https://www.figma.com/design/Yo0c0HRPWNRWUB5AshSYm1/Farmik?node-id=0-1&p=f&t=tNhZnn8bMpxJINBk-0)]
-
----
-
-
-## 🤝 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/lumesh2911/)
-- [X.com](https://x.com/lumesh2911)
-- [Github](https://github.com/lumesh2911-1)
-- [Portfolio](https://lumesh.vercel.app/)
+* GitHub: https://github.com/lumesh2911-1
+* LinkedIn: https://www.linkedin.com/in/lumesh2911/
+* Portfolio: https://lumesh.vercel.app
