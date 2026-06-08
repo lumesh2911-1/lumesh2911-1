@@ -10,7 +10,7 @@ A passionate Full Stack Software Developer with a strong foundation in building 
 - 🚀 Experienced in building full-stack applications and mobile apps with a focus on clean architecture, performance, and scalability
 - 💡 Passionate about building tools and platforms that improve productivity and solve real-world problems
 - 📬 Reach me at: lumesh2911@gmail.com
-- 📄 [[Resume](https://drive.google.com/file/d/16SHRDGsEyG21QoC0qv0N55_iXZwHT5SH/view?usp=sharing)]
+- 📄 [[Resume](https://drive.google.com/file/d/1ivYU8w-wpHXcYH9zlfwoAyIsIqsx8cxr/view?usp=drive_link)]
 
 ---
 
